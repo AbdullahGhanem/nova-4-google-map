@@ -1,6 +1,6 @@
 # Nova Google Map With Autocomplete Field Package
 
-This field allows you to work with Google Places API to autocomplete and Google Map on user input and get the full real address with all the metadata (like latitude and longitude).
+This field allows you to work with Google Places API to autocomplete and Google Map on user input (latitude and longitude).
 
 ## Installation
 
