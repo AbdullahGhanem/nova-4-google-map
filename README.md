@@ -30,9 +30,9 @@ GMAPS_API_KEY=############################
 Add the use declaration to your resource and use the fields:
 
 ```php
-use Ghanem\GoogleMap\TRMap;
+use Ghanem\GoogleMap\GHMap;
 
-TRMap::make('Map'), // Google Map with address picker
+GHMap::make('Map'), // Google Map with address picker
 ```
 
 ![Image of character counter](docs/screenshot-fields.png)
@@ -42,7 +42,7 @@ TRMap::make('Map'), // Google Map with address picker
 Add custom latitude, longitude and zoom values for starting point
 
 ```php
-TRMap::make('Map')
+GHMap::make('Map')
     ->latitude('latitude_field_name')
     ->longitude('longitude_field_name')
     ->zoom('zoom'),
@@ -51,7 +51,7 @@ TRMap::make('Map')
 Hide latitude and longitude field
 
 ```php
-TRMap::make('Map')
+GHMap::make('Map')
     ->hideLatitude()
     ->hideLongitude(),
 ```
