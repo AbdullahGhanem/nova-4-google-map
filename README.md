@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/ghanem/nova-4-google-map/v/stable.svg)](https://packagist.org/packages/ghanem/nova-4-google-map) [![License](https://poser.pugx.org/ghanem/nova-4-google-map/license.svg)](https://packagist.org/packages/ghanem/nova-4-google-map) [![Total Downloads](https://poser.pugx.org/ghanem/nova-4-google-map/downloads.svg)](https://packagist.org/packages/ghanem/nova-4-google-map)
+[![Latest Stable Version](https://poser.pugx.org/google-map/v/stable.svg)](https://packagist.org/packages/ghanem/google-map) [![License](https://poser.pugx.org/ghanem/google-map/license.svg)](https://packagist.org/packages/ghanem/google-map) [![Total Downloads](https://poser.pugx.org/ghanem/google-map/downloads.svg)](https://packagist.org/packages/ghanem/google-map)
 
 # Nova Google Map With Autocomplete Field Package
 
