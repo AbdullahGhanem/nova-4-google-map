@@ -1,6 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/ghanem/google-map/v/stable.svg)](https://packagist.org/packages/ghanem/google-map) [![License](https://poser.pugx.org/ghanem/google-map/license.svg)](https://packagist.org/packages/ghanem/google-map) [![Total Downloads](https://poser.pugx.org/ghanem/google-map/downloads.svg)](https://packagist.org/packages/ghanem/google-map)
 
-https://poser.pugx.org/ghanem/rating/v/stable.svg
 # Nova Google Map With Autocomplete Field Package
 
 This field allows you to work with Google Places API to autocomplete and Google Map on user input (latitude and longitude).
